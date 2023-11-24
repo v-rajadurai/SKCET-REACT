@@ -4,8 +4,9 @@ import Nav2 from "./Day-9/Practice-At-Home/navbar";
 export default function App() {
   return (
     <>
-    {/* <Nav/> */}
-    <Nav2/>
+    <Nav/> //day-9 class-work
+    <Nav2/>  //day-9 Practice-at-home
+    
         </>
   );
 }
